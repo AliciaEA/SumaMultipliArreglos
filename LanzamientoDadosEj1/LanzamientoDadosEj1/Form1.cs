@@ -46,10 +46,18 @@ namespace LanzamientoDadosEj1
             // Limpiar los resultados anteriores 
             LimpiarElementos();
 
-            //Mostrar los resultados de las sumas
+            // Encabezado del formato tabular
+            // Asegurar que el DataGridView tenga las columnas configuradas
+            if (dgvResultados.Columns.Count == 0)
+            {
+                dgvResultados.Columns.Add("Suma", "Suma");
+                dgvResultados.Columns.Add("Frecuencia", "Frecuencia");
+            }
+
+            // Agregar los resultados de las sumas al DataGridView
             for (int i = 2; i < frecuencias.Length; i++)
             {
-                lbResultado.Items.Add("La suma " + i + " salio " + frecuencias[i] + " veces");
+                dgvResultados.Rows.Add(i, frecuencias[i]);
             }
 
             // Comprobar si la suma 7 se aproxima al 16.67% de las tiradas
@@ -60,7 +68,7 @@ namespace LanzamientoDadosEj1
 
         public void LimpiarElementos()
         {
-            lbResultado.Items.Clear();
+            dgvResultados.Rows.Clear();
             tbProbabilidad.Clear();
             tbProb7.Clear();
         }

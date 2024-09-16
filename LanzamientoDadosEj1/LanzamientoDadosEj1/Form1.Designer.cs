@@ -32,11 +32,12 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnLanzar = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.lbResultado = new System.Windows.Forms.ListBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.tbProbabilidad = new System.Windows.Forms.TextBox();
             this.tbProb7 = new System.Windows.Forms.TextBox();
+            this.tbProbabilidad = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.dgvResultados = new System.Windows.Forms.DataGridView();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvResultados)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -62,7 +63,7 @@
             // btnLanzar
             // 
             this.btnLanzar.Image = global::LanzamientoDadosEj1.Properties.Resources.dado;
-            this.btnLanzar.Location = new System.Drawing.Point(402, 141);
+            this.btnLanzar.Location = new System.Drawing.Point(391, 129);
             this.btnLanzar.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.btnLanzar.Name = "btnLanzar";
             this.btnLanzar.Size = new System.Drawing.Size(177, 147);
@@ -72,10 +73,10 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.dgvResultados);
             this.groupBox1.Controls.Add(this.tbProb7);
             this.groupBox1.Controls.Add(this.tbProbabilidad);
             this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Controls.Add(this.lbResultado);
             this.groupBox1.Controls.Add(this.btnLanzar);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.label2);
@@ -83,52 +84,52 @@
             this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 3, 2, 3);
-            this.groupBox1.Size = new System.Drawing.Size(918, 520);
+            this.groupBox1.Size = new System.Drawing.Size(763, 651);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Simulacion";
             // 
-            // lbResultado
+            // tbProb7
             // 
-            this.lbResultado.FormattingEnabled = true;
-            this.lbResultado.ItemHeight = 20;
-            this.lbResultado.Location = new System.Drawing.Point(38, 312);
-            this.lbResultado.Name = "lbResultado";
-            this.lbResultado.Size = new System.Drawing.Size(478, 164);
-            this.lbResultado.TabIndex = 3;
+            this.tbProb7.Location = new System.Drawing.Point(365, 498);
+            this.tbProb7.Multiline = true;
+            this.tbProb7.Name = "tbProb7";
+            this.tbProb7.Size = new System.Drawing.Size(356, 54);
+            this.tbProb7.TabIndex = 6;
+            // 
+            // tbProbabilidad
+            // 
+            this.tbProbabilidad.Location = new System.Drawing.Point(365, 411);
+            this.tbProbabilidad.Multiline = true;
+            this.tbProbabilidad.Name = "tbProbabilidad";
+            this.tbProbabilidad.Size = new System.Drawing.Size(347, 58);
+            this.tbProbabilidad.TabIndex = 5;
             // 
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("MingLiU-ExtB", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(644, 233);
+            this.label3.Location = new System.Drawing.Point(466, 328);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(209, 80);
             this.label3.TabIndex = 4;
             this.label3.Text = "Verificacion";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // tbProbabilidad
+            // dgvResultados
             // 
-            this.tbProbabilidad.Location = new System.Drawing.Point(543, 316);
-            this.tbProbabilidad.Multiline = true;
-            this.tbProbabilidad.Name = "tbProbabilidad";
-            this.tbProbabilidad.Size = new System.Drawing.Size(347, 58);
-            this.tbProbabilidad.TabIndex = 5;
-            // 
-            // tbProb7
-            // 
-            this.tbProb7.Location = new System.Drawing.Point(543, 403);
-            this.tbProb7.Multiline = true;
-            this.tbProb7.Name = "tbProb7";
-            this.tbProb7.Size = new System.Drawing.Size(356, 54);
-            this.tbProb7.TabIndex = 6;
+            this.dgvResultados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvResultados.Location = new System.Drawing.Point(51, 296);
+            this.dgvResultados.Name = "dgvResultados";
+            this.dgvResultados.RowHeadersWidth = 62;
+            this.dgvResultados.Size = new System.Drawing.Size(265, 294);
+            this.dgvResultados.TabIndex = 5;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(984, 564);
+            this.ClientSize = new System.Drawing.Size(829, 688);
             this.Controls.Add(this.groupBox1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.MaximizeBox = false;
@@ -136,6 +137,7 @@
             this.Text = "Lanzamiento de Dados";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvResultados)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -146,10 +148,10 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnLanzar;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.ListBox lbResultado;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox tbProbabilidad;
         private System.Windows.Forms.TextBox tbProb7;
+        private System.Windows.Forms.DataGridView dgvResultados;
     }
 }
 
