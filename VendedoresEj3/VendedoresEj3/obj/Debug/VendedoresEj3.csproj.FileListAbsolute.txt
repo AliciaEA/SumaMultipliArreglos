@@ -1,0 +1,10 @@
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\bin\Debug\VendedoresEj3.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\bin\Debug\VendedoresEj3.exe
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\bin\Debug\VendedoresEj3.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.Form1.resources
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.exe
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\VendedoresEj3\VendedoresEj3\obj\Debug\VendedoresEj3.pdb
