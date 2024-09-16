@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|c:\\users\\usuario\\onedrive\\escritorio\\sumamultiarreglos\\lanzamientodadosej1\\lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|solutionrelative:lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|solutionrelative:lanzamientodadosej1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\lanzamientodadosej1\\models\\simulaciondados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|solutionrelative:lanzamientodadosej1\\models\\simulaciondados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\lanzamientodadosej1\\models\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D83CF46-E2EE-411B-837C-F96EEE3661D3}|LanzamientoDadosEj1\\LanzamientoDadosEj1.csproj|solutionrelative:lanzamientodadosej1\\models\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\LanzamientoDadosEj1\\Form1.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\LanzamientoDadosEj1\\Form1.cs",
+              "RelativeToolTip": "LanzamientoDadosEj1\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAzwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:17:20.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimulacionDados.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\LanzamientoDadosEj1\\models\\SimulacionDados.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\models\\SimulacionDados.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\LanzamientoDadosEj1\\models\\SimulacionDados.cs",
+              "RelativeToolTip": "LanzamientoDadosEj1\\models\\SimulacionDados.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:10:59.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dado.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\LanzamientoDadosEj1\\models\\Dado.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\models\\Dado.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\LanzamientoDadosEj1\\models\\Dado.cs",
+              "RelativeToolTip": "LanzamientoDadosEj1\\models\\Dado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:04:28.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\LanzamientoDadosEj1\\Form1.cs",
+              "RelativeDocumentMoniker": "LanzamientoDadosEj1\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\LanzamientoDadosEj1\\LanzamientoDadosEj1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LanzamientoDadosEj1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:02:32.893Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
