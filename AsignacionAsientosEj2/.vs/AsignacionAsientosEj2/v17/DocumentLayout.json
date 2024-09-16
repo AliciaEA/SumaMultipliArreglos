@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\AsignacionAsientosEj2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}|AsignacionAsientosEj2\\AsignacionAsientosEj2.csproj|c:\\users\\usuario\\onedrive\\escritorio\\sumamultiarreglos\\asignacionasientosej2\\asignacionasientosej2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}|AsignacionAsientosEj2\\AsignacionAsientosEj2.csproj|solutionrelative:asignacionasientosej2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}|AsignacionAsientosEj2\\AsignacionAsientosEj2.csproj|c:\\users\\usuario\\onedrive\\escritorio\\sumamultiarreglos\\asignacionasientosej2\\asignacionasientosej2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}|AsignacionAsientosEj2\\AsignacionAsientosEj2.csproj|solutionrelative:asignacionasientosej2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}|AsignacionAsientosEj2\\AsignacionAsientosEj2.csproj|c:\\users\\usuario\\onedrive\\escritorio\\sumamultiarreglos\\asignacionasientosej2\\asignacionasientosej2\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}|AsignacionAsientosEj2\\AsignacionAsientosEj2.csproj|solutionrelative:asignacionasientosej2\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}|AsignacionAsientosEj2\\AsignacionAsientosEj2.csproj|c:\\users\\usuario\\onedrive\\escritorio\\sumamultiarreglos\\asignacionasientosej2\\asignacionasientosej2\\models\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}|AsignacionAsientosEj2\\AsignacionAsientosEj2.csproj|solutionrelative:asignacionasientosej2\\models\\avion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Avion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\AsignacionAsientosEj2\\AsignacionAsientosEj2\\models\\Avion.cs",
+              "RelativeDocumentMoniker": "AsignacionAsientosEj2\\models\\Avion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\AsignacionAsientosEj2\\AsignacionAsientosEj2\\models\\Avion.cs",
+              "RelativeToolTip": "AsignacionAsientosEj2\\models\\Avion.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvxEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:37:45.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\AsignacionAsientosEj2\\AsignacionAsientosEj2\\Form1.cs",
+              "RelativeDocumentMoniker": "AsignacionAsientosEj2\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\AsignacionAsientosEj2\\AsignacionAsientosEj2\\Form1.cs",
+              "RelativeToolTip": "AsignacionAsientosEj2\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:33:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asiento.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\AsignacionAsientosEj2\\AsignacionAsientosEj2\\models\\Asiento.cs",
+              "RelativeDocumentMoniker": "AsignacionAsientosEj2\\models\\Asiento.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\AsignacionAsientosEj2\\AsignacionAsientosEj2\\models\\Asiento.cs",
+              "RelativeToolTip": "AsignacionAsientosEj2\\models\\Asiento.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:33:10.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\AsignacionAsientosEj2\\AsignacionAsientosEj2\\Form1.cs",
+              "RelativeDocumentMoniker": "AsignacionAsientosEj2\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\SumaMultiArreglos\\AsignacionAsientosEj2\\AsignacionAsientosEj2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AsignacionAsientosEj2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:32:22.626Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

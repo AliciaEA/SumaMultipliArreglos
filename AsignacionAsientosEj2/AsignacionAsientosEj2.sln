@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsignacionAsientosEj2", "AsignacionAsientosEj2\AsignacionAsientosEj2.csproj", "{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAB88BE-5E8C-434F-A42D-CA1DACCE7BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF0DEA1-669C-419F-BB07-BA6E87CF881F}
+	EndGlobalSection
+EndGlobal

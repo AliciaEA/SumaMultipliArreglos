@@ -1,0 +1,10 @@
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\bin\Debug\AsignacionAsientosEj2.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\bin\Debug\AsignacionAsientosEj2.exe
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\bin\Debug\AsignacionAsientosEj2.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\obj\Debug\AsignacionAsientosEj2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\obj\Debug\AsignacionAsientosEj2.Form1.resources
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\obj\Debug\AsignacionAsientosEj2.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\obj\Debug\AsignacionAsientosEj2.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\obj\Debug\AsignacionAsientosEj2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\obj\Debug\AsignacionAsientosEj2.exe
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\AsignacionAsientosEj2\AsignacionAsientosEj2\obj\Debug\AsignacionAsientosEj2.pdb
