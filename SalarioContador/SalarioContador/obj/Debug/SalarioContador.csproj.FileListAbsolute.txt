@@ -1,0 +1,10 @@
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\bin\Debug\SalarioContador.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\bin\Debug\SalarioContador.exe
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\bin\Debug\SalarioContador.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\obj\Debug\SalarioContador.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\obj\Debug\SalarioContador.Form1.resources
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\obj\Debug\SalarioContador.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\obj\Debug\SalarioContador.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\obj\Debug\SalarioContador.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\obj\Debug\SalarioContador.exe
+C:\Users\USUARIO\OneDrive\Escritorio\SumaMultiArreglos\SalarioContador\SalarioContador\obj\Debug\SalarioContador.pdb
